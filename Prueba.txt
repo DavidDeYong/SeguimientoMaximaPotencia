@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 Incorporando texto - Respositorio de Desarrollo
 
 Incorporando texto 2 - Repositorio de Desarrollo
 
 Incporrando text 3 - Repositorio de Desarrollo
+=======
+>>>>>>> parent of 6635871... Incorporacion 1
