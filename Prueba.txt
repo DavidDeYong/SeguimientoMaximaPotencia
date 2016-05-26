@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Incorporando texto - Respositorio de Desarrollo
 
 Incorporando texto 2 - Repositorio de Desarrollo
 
 Incporrando text 3 - Repositorio de Desarrollo
+=======
+Incorporando texto - Respositorio de Desarrollo
+>>>>>>> parent of 77b033c... Incorporacion 2
